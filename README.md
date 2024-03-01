@@ -1,10 +1,7 @@
 # Hi there 👋, my name is Prince Eugene Ofosu
 ## My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.
 <br>
-<p align="center">
-  My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas     are shared freely, and innovation is encouraged
-</p>
-<img src="https://capsule-render.vercel.app/api?text=Hi there!!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+![My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas     are shared freely, and innovation is encouraged]<img src="https://capsule-render.vercel.app/api?text=Hi there!!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 A passionate full-stack developer with a knack for turning ideas into reality through code. With a solid foundation in both front-end and back-end technologies, I thrive in creating seamless, user-centric web applications that leave a lasting impact. 
 <br>
 
