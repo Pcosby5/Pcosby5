@@ -1,15 +1,18 @@
 # Hi there 👋, my name is Prince Eugene Ofosu
 ## My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.
 <br>
-<p align="center">My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged </p>
+![My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged](https://qph.cf2.quoracdn.net/main-qimg-4250f91dbd77606bb3ce894cf86d18d2)
 <br>
-
-<img src="(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)" alt="google_img">
 
 A passionate full-stack developer with a knack for turning ideas into reality through code. With a solid foundation in both front-end and back-end technologies, I thrive in creating seamless, user-centric web applications that leave a lasting impact. 
 <br>
 
 Skills: PYTHON / REACT / JS / HTML / CSS / C / SQLite / MongoDB
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - 🔭 I’m currently working on my Portfolio project 
 - 🌱 I’m currently learning Javascript 
