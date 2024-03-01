@@ -22,7 +22,7 @@ Skills: PYTHON / REACT / JS / HTML / CSS / C / SQLite / MongoDB
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=Pcosby5)](https://github.com/ryo-ma/github-profile-trophy">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcosby5)](https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcosby5)](https://github.com/Pcosby5/github-readme-stats">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Pcosby5&show_icons=true">
  
