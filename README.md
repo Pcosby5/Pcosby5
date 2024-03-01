@@ -1,7 +1,7 @@
 ### Hi there , I'm Cosby👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Pcosby5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcosby5&layout=compact">
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 <!--
