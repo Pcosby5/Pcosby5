@@ -1,7 +1,7 @@
 # Hi there 👋, my name is Prince Eugene Ofosu
-### My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.
+## My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.
 <br>
-![My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.]
+### My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi there!!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
