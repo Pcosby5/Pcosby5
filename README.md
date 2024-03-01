@@ -4,7 +4,7 @@
 <p align="center">My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged </p>
 <br>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhich-private-engineering-college-has-a-good-coding-culture&psig=AOvVaw0lKP2GblFlVOusnhkwWCUY&ust=1709366649969000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjLupDN0oQDFQAAAAAdAAAAABAE" alt="google_img">
+<img src="(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)" alt="google_img">
 
 A passionate full-stack developer with a knack for turning ideas into reality through code. With a solid foundation in both front-end and back-end technologies, I thrive in creating seamless, user-centric web applications that leave a lasting impact. 
 <br>
