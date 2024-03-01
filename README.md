@@ -1,6 +1,6 @@
 ### Hi there , I'm Cosby👋
-<img src="https://github-readme-stats.vercel.app/api?username=Pcosby5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcosby5&layout=compact">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Pcosby5&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcosby5&layout=compact">
 
 
 
