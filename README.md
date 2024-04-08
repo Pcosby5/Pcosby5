@@ -1,8 +1,5 @@
 # Hi there 👋, my name is Prince Eugene Ofosu
 ## My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged.
-<br>
-![My passion for software development stems from the desire to solve real-world problems and make a positive impact in people's lives. I thrive in collaborative environments where ideas are shared freely, and innovation is encouraged](https://qph.cf2.quoracdn.net/main-qimg-4250f91dbd77606bb3ce894cf86d18d2)
-<br>
 
 A passionate full-stack developer with a knack for turning ideas into reality through code. With a solid foundation in both front-end and back-end technologies, I thrive in creating seamless, user-centric web applications that leave a lasting impact. 
 <br>
