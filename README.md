@@ -1,4 +1,5 @@
-![Welcome Banner](https://raw.githubusercontent.com/Pcosby5/Pcosby5/main/github.jpg)
+<img src="https://raw.githubusercontent.com/Pcosby5/Pcosby5/main/github.jpg" alt="Welcome Banner" width="1000" height="500">
+
 
 # Hi there 👋, my name is Prince Eugene Ofosu
 
