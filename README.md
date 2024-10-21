@@ -24,7 +24,7 @@ PYTHON / REACT / JS / HTML / CSS / C / SQLite / MongoDB
 - 📫 How to reach me:
    - [LinkedIn](https://www.linkedin.com/in/prince-ofosu-512646102)
    - [Twitter](https://twitter.com/pcosby50)
-   - **Email**: pcosby50@gmail.com
+   - [Email](mailto:pcosby50@gmail.com)
 
 - ⚡ **Fun fact**: If you do not love programming, you will never become a programmer!
 
