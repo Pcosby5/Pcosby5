@@ -1,3 +1,4 @@
+![Welcome Banner](https://raw.githubusercontent.com/username/repository/main/banner.png)
 # Hi there 👋, my name is Prince Eugene Ofosu
 
 ## Passionate Full-Stack Developer
