@@ -1,4 +1,5 @@
-![Welcome Banner](https://raw.githubusercontent.com/username/repository/main/banner.png)
+![Welcome Banner](https://raw.githubusercontent.com/Pcosby5/Pcosby5/main/github.jpg)
+
 # Hi there 👋, my name is Prince Eugene Ofosu
 
 ## Passionate Full-Stack Developer
